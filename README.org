@@ -1,5 +1,10 @@
 * LP-Programming CPPM
 This is the reusable / portable portions of C++ 26 modules I use. Anything that isn't entirely application specific
-lives here. 
+lives here.
+
+** Literate
+The literate branch has some org-mode files that have extra documentation about some of the modules which live here. I
+don't awlays create them, and don't clutter the master branch with them, but any changes to those modules go through the
+org file, so they /should/ always be up to date.
 
 
